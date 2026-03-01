@@ -64,7 +64,7 @@ Thank you! – Emerald Cipher LLC
 ### 💼 Available for Freelance Work
 Python tools · Automation · Data scripts · Custom calculators  
 Rates: $50–$100/hour  
-Contact: Jesse.Data@emeraldcipher.com · github.com/emerald-cipher
+Contact: github.com/emerald-cipher
 
 *Emerald Cipher LLC – Real Tools. Real Results.*
 
